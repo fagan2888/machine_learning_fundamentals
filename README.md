@@ -1,4 +1,4 @@
-# machine_learning_fundamentals
+# Machine Learning Fundamentals
 Fundamental concepts in machine learning
 
 
